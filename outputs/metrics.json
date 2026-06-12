@@ -1,0 +1,8 @@
+{
+    "user_id": 1,
+    "precision@k": 0.0,
+    "intra_list_diversity": 0.8122,
+    "novelty_score": 3.412,
+    "mean_predicted_rating": 4.406,
+    "mean_surprise_score": 0.892
+}

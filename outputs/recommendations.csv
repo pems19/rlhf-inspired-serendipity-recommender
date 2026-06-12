@@ -1,0 +1,11 @@
+movie_id,title,genres,predicted_rating,relevance_score,surprise_score,serendipity_score
+525,"Big Sleep, The (1946)","Film-Noir, Mystery",4.44,0.888,0.98,0.919
+661,High Noon (1952),Western,4.4,0.875,0.978,0.91
+484,"Maltese Falcon, The (1941)","Film-Noir, Mystery",4.39,0.869,0.98,0.906
+513,"Third Man, The (1949)","Mystery, Thriller",4.68,0.965,0.751,0.892
+493,"Thin Man, The (1934)",Mystery,4.29,0.837,0.978,0.885
+1142,When We Were Kings (1996),Documentary,4.26,0.827,0.955,0.871
+511,Lawrence of Arabia (1962),"Adventure, War",4.56,0.927,0.759,0.87
+589,"Wild Bunch, The (1969)",Western,4.19,0.803,0.978,0.862
+530,"Man Who Would Be King, The (1975)",Adventure,4.39,0.87,0.822,0.853
+302,L.A. Confidential (1997),"Crime, Film-Noir, Mystery, Thriller",4.46,0.894,0.738,0.841
